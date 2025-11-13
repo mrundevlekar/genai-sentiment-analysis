@@ -9,5 +9,3 @@ Enter any text, and the app will classify it as **Positive, Negative, Neutral, o
 - Groq API
 - dotenv for secure key handling
 
-## 🔐 Environment Variables
-You must set your Groq API key:
